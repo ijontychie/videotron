@@ -7,7 +7,7 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 # Nächste Sendung
 
-08.10.2020 17:00 Uhr
+12.11.2020 17:00 Uhr
 
 [![Livestream Lichtenberg](Thumbnail_Lichtenberg.png)](https://www.youtube.com/channel/UCaOI8pkMs0DKvg5XYX72KcQ)
 
