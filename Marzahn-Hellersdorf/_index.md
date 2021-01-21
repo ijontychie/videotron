@@ -6,7 +6,7 @@ description: "Livestream der Bezirksverordnetenversammlung von Marzahn-Hellersdo
 ---
 # Nächste Sendung
 
-17.12.2020 17:00 Uhr
+21.01.2021 17:00 Uhr
 
 [![Livestream Marzahn-Hellersdorf](Thumbnail_Marzahn-Hellersdorf.png)](https://www.youtube.com/channel/UC5nx5uBVEwuPQWb0PvREF9w)
 
