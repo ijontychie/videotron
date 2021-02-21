@@ -7,8 +7,7 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 # Nächste Sendung
 
-21.01.2021 19:00 Uhr
-Aufgrund der aktuellen Pandemie ist der Termin noch unbestätigt.
+25.02.2021 19:00 Uhr
 
 [![Livestream Lichtenberg](Thumbnail_Lichtenberg.png)](https://www.youtube.com/channel/UCaOI8pkMs0DKvg5XYX72KcQ)
 
