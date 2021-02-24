@@ -11,11 +11,11 @@ description: "Livestream der Bezirksverordnetenversammlung von Friedrichshain-Kr
 [![Livestream Friedrichshain-Kreuzberg](Livestram_Thumbnail_Friedrichshain-Kreuzberg.png)](https://www.youtube.com/channel/UCKzmJMbXWU7l-_Nvw3Mnufg)
 
 # Wichtige Informationen
-[Sitzungskalender](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/)
+[Sitzungskalender](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp)
 
-[Tagesordnung](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp)
+[Tagesordnung](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=9850)
 
-[Ort](https://www.openstreetmap.de/karte.html?zoom=16&lat=52.54613&lon=13.5598&layers=00B0TT)
+[Ort](https://www.openstreetmap.de/karte.html?zoom=18&lat=52.49361&lon=13.38602&layers=B000TT)
 
 ## Adresse
 
