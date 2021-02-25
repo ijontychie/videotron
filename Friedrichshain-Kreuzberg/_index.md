@@ -6,14 +6,14 @@ description: "Livestream der Bezirksverordnetenversammlung von Friedrichshain-Kr
 ---
 # Nächste Sendung
 
-24.02.2021 18:00 Uhr
+24.03.2021 18:00 Uhr
 
 [![Livestream Friedrichshain-Kreuzberg](Livestram_Thumbnail_Friedrichshain-Kreuzberg.png)](https://www.youtube.com/channel/UCKzmJMbXWU7l-_Nvw3Mnufg)
 
 # Wichtige Informationen
-[Sitzungskalender](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp)
+[Sitzungskalender](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
-[Tagesordnung](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=9850)
+[Tagesordnung](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
 [Ort](https://www.openstreetmap.de/karte.html?zoom=18&lat=52.49361&lon=13.38602&layers=B000TT)
 
