@@ -16,7 +16,7 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 [Tagesordnung](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
-[Ort](https://www.openstreetmap.de/karte.html#?zoom=15&lat=52.48206&lon=13.52108&layers=B000TT)
+[Ort](https://www.openstreetmap.de/karte.html?zoom=17&lat=52.48144&lon=13.52784&layers=B000TT)
 
 ## Adresse
 
