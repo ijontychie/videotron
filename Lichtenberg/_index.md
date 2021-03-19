@@ -7,7 +7,7 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 # Nächste Sendung
 
-18.03.2021 18:00 Uhr
+29.04.2021 17:00 Uhr
 
 [![Livestream Lichtenberg](Thumbnail_Lichtenberg.png)](https://www.youtube.com/channel/UCaOI8pkMs0DKvg5XYX72KcQ)
 
@@ -16,12 +16,10 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 [Tagesordnung](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
-[Ort](https://www.openstreetmap.de/karte.html?zoom=16&lat=52.51496&lon=13.47951&layers=00B0TT )
+[Ort](https://www.openstreetmap.de/karte.html#?zoom=15&lat=52.48206&lon=13.52108&layers=B000TT)
 
 ## Adresse
 
-Max-Taut-Aula
-
-Fischerstr. 36
-
-10317 Berlin
+Kulturhaus Karlshorst
+Treskowallee 112
+10318 Berlin
