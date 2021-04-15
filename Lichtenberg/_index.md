@@ -7,12 +7,12 @@ description: "Livestream der Bezirksverordnetenversammlung von Lichtenberg von B
 
 # Nächste Sendung
 
-29.04.2021 17:00 Uhr
+Die aktuellen Termine finden Sie im [Sitzungskalender](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021).
+
 
 [![Livestream Lichtenberg](Thumbnail_Lichtenberg.png)](https://www.youtube.com/channel/UCaOI8pkMs0DKvg5XYX72KcQ)
 
 # Wichtige Informationen
-[Sitzungskalender](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
 [Tagesordnung](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
