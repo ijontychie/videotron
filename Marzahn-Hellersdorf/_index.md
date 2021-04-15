@@ -6,12 +6,11 @@ description: "Livestream der Bezirksverordnetenversammlung von Marzahn-Hellersdo
 ---
 # Nächste Sendung
 
-25.03.2021 17:00 Uhr
+Die aktuellen Termine finden Sie im [Sitzungskalender](https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021).
 
 [![Livestream Marzahn-Hellersdorf](Thumbnail_Marzahn-Hellersdorf.png)](https://www.youtube.com/channel/UC5nx5uBVEwuPQWb0PvREF9w)
 
 # Wichtige Informationen
-[Sitzungskalender](https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
 [Tagesordnung](https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/si010.asp?MM=3&YY=2021)
 
