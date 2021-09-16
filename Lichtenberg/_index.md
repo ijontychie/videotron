@@ -20,8 +20,8 @@ Die aktuellen Termine finden Sie im [Sitzungskalender](https://www.berlin.de/ba-
 
 ## Adresse
 
-Kulturhaus Karlshorst
+Max-Taut-Aula
 
-Treskowallee 112
+Fischerstraße 36
 
-10318 Berlin
+10317 Berlin
